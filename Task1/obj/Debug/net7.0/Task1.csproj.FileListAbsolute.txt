@@ -1,0 +1,14 @@
+C:\Users\Nazar\Desktop\CGeek\Task1\bin\Debug\net7.0\Task1.exe
+C:\Users\Nazar\Desktop\CGeek\Task1\bin\Debug\net7.0\Task1.deps.json
+C:\Users\Nazar\Desktop\CGeek\Task1\bin\Debug\net7.0\Task1.runtimeconfig.json
+C:\Users\Nazar\Desktop\CGeek\Task1\bin\Debug\net7.0\Task1.dll
+C:\Users\Nazar\Desktop\CGeek\Task1\bin\Debug\net7.0\Task1.pdb
+C:\Users\Nazar\Desktop\CGeek\Task1\obj\Debug\net7.0\Task1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nazar\Desktop\CGeek\Task1\obj\Debug\net7.0\Task1.AssemblyInfoInputs.cache
+C:\Users\Nazar\Desktop\CGeek\Task1\obj\Debug\net7.0\Task1.AssemblyInfo.cs
+C:\Users\Nazar\Desktop\CGeek\Task1\obj\Debug\net7.0\Task1.csproj.CoreCompileInputs.cache
+C:\Users\Nazar\Desktop\CGeek\Task1\obj\Debug\net7.0\Task1.dll
+C:\Users\Nazar\Desktop\CGeek\Task1\obj\Debug\net7.0\refint\Task1.dll
+C:\Users\Nazar\Desktop\CGeek\Task1\obj\Debug\net7.0\Task1.pdb
+C:\Users\Nazar\Desktop\CGeek\Task1\obj\Debug\net7.0\Task1.genruntimeconfig.cache
+C:\Users\Nazar\Desktop\CGeek\Task1\obj\Debug\net7.0\ref\Task1.dll

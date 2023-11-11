@@ -1,0 +1,14 @@
+C:\Users\Nazar\Desktop\CGeek\Homework2\HW2Task3\bin\Debug\net7.0\HW2Task3.exe
+C:\Users\Nazar\Desktop\CGeek\Homework2\HW2Task3\bin\Debug\net7.0\HW2Task3.deps.json
+C:\Users\Nazar\Desktop\CGeek\Homework2\HW2Task3\bin\Debug\net7.0\HW2Task3.runtimeconfig.json
+C:\Users\Nazar\Desktop\CGeek\Homework2\HW2Task3\bin\Debug\net7.0\HW2Task3.dll
+C:\Users\Nazar\Desktop\CGeek\Homework2\HW2Task3\bin\Debug\net7.0\HW2Task3.pdb
+C:\Users\Nazar\Desktop\CGeek\Homework2\HW2Task3\obj\Debug\net7.0\HW2Task3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nazar\Desktop\CGeek\Homework2\HW2Task3\obj\Debug\net7.0\HW2Task3.AssemblyInfoInputs.cache
+C:\Users\Nazar\Desktop\CGeek\Homework2\HW2Task3\obj\Debug\net7.0\HW2Task3.AssemblyInfo.cs
+C:\Users\Nazar\Desktop\CGeek\Homework2\HW2Task3\obj\Debug\net7.0\HW2Task3.csproj.CoreCompileInputs.cache
+C:\Users\Nazar\Desktop\CGeek\Homework2\HW2Task3\obj\Debug\net7.0\HW2Task3.dll
+C:\Users\Nazar\Desktop\CGeek\Homework2\HW2Task3\obj\Debug\net7.0\refint\HW2Task3.dll
+C:\Users\Nazar\Desktop\CGeek\Homework2\HW2Task3\obj\Debug\net7.0\HW2Task3.pdb
+C:\Users\Nazar\Desktop\CGeek\Homework2\HW2Task3\obj\Debug\net7.0\HW2Task3.genruntimeconfig.cache
+C:\Users\Nazar\Desktop\CGeek\Homework2\HW2Task3\obj\Debug\net7.0\ref\HW2Task3.dll
