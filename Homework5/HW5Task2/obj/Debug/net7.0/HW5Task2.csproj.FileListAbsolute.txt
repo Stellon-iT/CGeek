@@ -1,0 +1,14 @@
+C:\Users\Nazar\Desktop\CGeek\Homework5\HW5Task2\bin\Debug\net7.0\HW5Task2.exe
+C:\Users\Nazar\Desktop\CGeek\Homework5\HW5Task2\bin\Debug\net7.0\HW5Task2.deps.json
+C:\Users\Nazar\Desktop\CGeek\Homework5\HW5Task2\bin\Debug\net7.0\HW5Task2.runtimeconfig.json
+C:\Users\Nazar\Desktop\CGeek\Homework5\HW5Task2\bin\Debug\net7.0\HW5Task2.dll
+C:\Users\Nazar\Desktop\CGeek\Homework5\HW5Task2\bin\Debug\net7.0\HW5Task2.pdb
+C:\Users\Nazar\Desktop\CGeek\Homework5\HW5Task2\obj\Debug\net7.0\HW5Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nazar\Desktop\CGeek\Homework5\HW5Task2\obj\Debug\net7.0\HW5Task2.AssemblyInfoInputs.cache
+C:\Users\Nazar\Desktop\CGeek\Homework5\HW5Task2\obj\Debug\net7.0\HW5Task2.AssemblyInfo.cs
+C:\Users\Nazar\Desktop\CGeek\Homework5\HW5Task2\obj\Debug\net7.0\HW5Task2.csproj.CoreCompileInputs.cache
+C:\Users\Nazar\Desktop\CGeek\Homework5\HW5Task2\obj\Debug\net7.0\HW5Task2.dll
+C:\Users\Nazar\Desktop\CGeek\Homework5\HW5Task2\obj\Debug\net7.0\refint\HW5Task2.dll
+C:\Users\Nazar\Desktop\CGeek\Homework5\HW5Task2\obj\Debug\net7.0\HW5Task2.pdb
+C:\Users\Nazar\Desktop\CGeek\Homework5\HW5Task2\obj\Debug\net7.0\HW5Task2.genruntimeconfig.cache
+C:\Users\Nazar\Desktop\CGeek\Homework5\HW5Task2\obj\Debug\net7.0\ref\HW5Task2.dll
